@@ -1,0 +1,97 @@
+﻿Site,Latitude,Longitude,Year,Month,Day,Organism,Admitted,Count
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,2,RSV,1,6
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,2,RSV,0,5
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,2,Unknown/other,1,7
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,2,Unknown/other,0,8
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,9,RSV,1,7
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,9,RSV,0,9
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,9,Unknown/other,1,8
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,9,Unknown/other,0,10
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,16,RSV,1,12
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,16,RSV,0,14
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,16,Unknown/other,1,6
+Birmingham Children's Hospital,52.484852,-1.8937875,2021,7,16,Unknown/other,0,6
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,2,RSV,1,8
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,2,RSV,0,7
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,2,Unknown/other,1,12
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,2,Unknown/other,0,14
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,9,RSV,1,6
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,9,RSV,0,5
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,9,Unknown/other,1,7
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,9,Unknown/other,0,8
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,16,RSV,1,9
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,16,RSV,0,10
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,16,Unknown/other,1,12
+Bristol Royal Hospital for Children,51.4576755,-2.597197,2021,7,16,Unknown/other,0,13
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,2,RSV,1,9
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,2,RSV,0,8
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,2,Unknown/other,1,5
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,2,Unknown/other,0,6
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,9,RSV,1,7
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,9,RSV,0,8
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,9,Unknown/other,1,9
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,9,Unknown/other,0,11
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,16,RSV,1,16
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,16,RSV,0,14
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,16,Unknown/other,1,6
+Leicester Royal Infirmary,52.6265215,-1.1357115,2021,7,16,Unknown/other,0,5
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,2,RSV,1,6
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,2,RSV,0,9
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,2,Unknown/other,1,11
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,2,Unknown/other,0,14
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,9,RSV,1,9
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,9,RSV,0,8
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,9,Unknown/other,1,5
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,9,Unknown/other,0,6
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,16,RSV,1,7
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,16,RSV,0,9
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,16,Unknown/other,1,5
+Nottingham Children's Hospital,52.944309,-1.191448,2021,7,16,Unknown/other,0,12
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,2,RSV,1,14
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,2,RSV,0,15
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,2,Unknown/other,1,11
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,2,Unknown/other,0,6
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,9,RSV,1,7
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,9,RSV,0,9
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,9,Unknown/other,1,9
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,9,Unknown/other,0,10
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,16,RSV,1,11
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,16,RSV,0,6
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,16,Unknown/other,1,9
+Ormskirk & District General Hospital,53.560854,-2.839117,2021,7,16,Unknown/other,0,8
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,2,RSV,1,13
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,2,RSV,0,12
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,2,Unknown/other,1,16
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,2,Unknown/other,0,9
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,9,RSV,1,6
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,9,RSV,0,5
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,9,Unknown/other,1,7
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,9,Unknown/other,0,8
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,16,RSV,1,9
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,16,RSV,0,6
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,16,Unknown/other,1,7
+Children's Health Ireland at Tallaght,53.2886,-6.3572,2021,7,16,Unknown/other,0,8
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,2,RSV,1,9
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,2,RSV,0,10
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,2,Unknown/other,1,11
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,2,Unknown/other,0,12
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,9,RSV,1,15
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,9,RSV,0,12
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,9,Unknown/other,1,7
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,9,Unknown/other,0,8
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,16,RSV,1,9
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,16,RSV,0,6
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,16,Unknown/other,1,6
+Queen Elizabeth Hospital Woolwich,51.478861,0.050717,2021,7,16,Unknown/other,0,6
+Salisbury District Hospital,51.046376,-1.792013,2021,7,2,RSV,1,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,2,RSV,0,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,2,Unknown/other,1,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,2,Unknown/other,0,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,9,RSV,1,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,9,RSV,0,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,9,Unknown/other,1,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,9,Unknown/other,0,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,16,RSV,1,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,16,RSV,0,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,16,Unknown/other,1,<5
+Salisbury District Hospital,51.046376,-1.792013,2021,7,16,Unknown/other,0,<5
